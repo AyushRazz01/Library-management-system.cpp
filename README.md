@@ -1,6 +1,4 @@
-Hello I am Ayush Razz who is so passinate in the technogoly but due to lack of guidence and no proper information how to do what to do and from where to do. I became loser. 
-But from now i Will change and do a hardcore work towads my passion in the coding technology.
+Library-Management-System-using-Data-Structures
+Library management system is a simple console application using linked list in C programming language. User can perform basic library management operations like issuing books, returning the issued books and displaying records of the issued books with the user details.
 
-Wish me BEST OF LUCK and provides me your love guys.
-
-Its my First git Hub messsaage.
+Each book in the library has a unique identification number. The user issues the book by entering the book ID and the user details. Each user can issue only one book at a time. When the user returns the issued book, the book is available in the library for issuing again. The record of the issued book with user details can also be viewed.
